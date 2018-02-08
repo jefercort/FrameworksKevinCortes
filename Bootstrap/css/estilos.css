@@ -1,0 +1,58 @@
+.logo{
+  width: 250px;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.redes_sociales{
+  margin-top: 200px;
+  }
+  .redsocial{
+    width: 50px;
+  }
+.logoo{
+  width: 40px;
+}
+ul{
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.logo1{
+  width: 250px;
+  margin-left: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+body{
+  background-color: #d32f2f;
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
+.menui{
+  margin-top: 10px;
+  background-color: #304ffe;
+}
+.contenidop{
+  color: white;
+}
+.buscador{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+@media (max-width:420px){
+  .logo1{
+    width: 200px;
+    margin-left: 30px;
+  }
+  .logo{
+    width: 250px;
+    margin-left: 40px;
+    margin-top: 20px;
+  }
+  .redes_sociales{
+    margin-top: 20px;
+    }
+    .redsocial{
+      width: 40px;
+}

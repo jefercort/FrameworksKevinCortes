@@ -1,0 +1,30 @@
+.logo{
+  width: 300px;
+}
+body{
+  background: url(../img/bosque.jpg);
+  background-attachment: fixed;
+  background-size:  cover;
+}
+.rsocial{
+  width: 50px;
+}
+.imagen1{
+  width: 300px;
+  padding-right: 20px;
+}
+.perfil{
+  width: 200px;
+}
+.menu{
+  margin-top: 40px;
+}
+.eslogan{
+  color: white;
+  font-family: 'Raleway', sans-serif;
+}
+.boton{
+  font-family: 'Raleway', sans-serif;
+  background-color: #66bb6a;
+  font-size: 12px;
+}
